@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a59f08fb-f936-4895-bf0d-d76f5dac1f6b" name="Default Changelist" comment="New Course on Langchain">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/ice_breaker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/linkedin_lookup_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ice_breaker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_parties/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third_parties/linkedin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <list id="656f877e-9b80-48e5-91cf-ab5909c74ee7" name="New Course on Langchain" comment="" />
+    <list id="3d592d87-f9a7-493b-b3e3-7a34188a39a7" name="New Course on LangChain" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2TPACNWR7rAVrdK3rh0Up4rNEeZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="ice_breaker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ice_breaker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ice_breaker" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ice_breaker" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="OPENAI_API_KEY" value="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" />
+        <env name="PROXY_CURL_API_KEY" value="jP6aVCh48X-opfBmy-5jxg" />
+        <env name="SERPAPI_API_KEY" value="3d1059ed276c10f25c3a166d554fabf8c078add7a543f74ad395fa8812668651" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.local/share/virtualenvs/ice_breaker-qHfQkR2D/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ice_breaker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a59f08fb-f936-4895-bf0d-d76f5dac1f6b" name="Default Changelist" comment="" />
+      <changelist id="3d592d87-f9a7-493b-b3e3-7a34188a39a7" name="New Course on LangChain" comment="" />
+      <changelist id="656f877e-9b80-48e5-91cf-ab5909c74ee7" name="New Course on Langchain" comment="" />
+      <created>1690934213410</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690934213410</updated>
+    </task>
+    <task id="LOCAL-00001" summary="New Course on Langchain">
+      <created>1691547006971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691547006971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="New Course on Langchain" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Course on Langchain" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="235" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1692651644824">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="235" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.960@0.0.1536.960" timestamp="1692651644824" />
+    <state x="510" y="286" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1691632222306">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="510" y="286" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.960@0.0.1536.960" timestamp="1691632222306" />
+    <state x="531" y="187" key="#xdebugger.evaluate" timestamp="1692652511210">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="531" y="187" key="#xdebugger.evaluate/0.0.1536.960@0.0.1536.960" timestamp="1692652511210" />
+    <state x="515" y="349" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1692576042751">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="515" y="349" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.960@0.0.1536.960" timestamp="1692576042751" />
+    <state x="100" y="100" width="1336" height="760" key="DiffContextDialog" timestamp="1691547747048">
+      <screen x="0" y="25" width="1536" height="881" />
+    </state>
+    <state x="100" y="100" width="1336" height="760" key="DiffContextDialog/0.25.1536.881@0.25.1536.881" timestamp="1691547747048" />
+    <state x="624" y="214" key="EnvironmentVariablesDialog" timestamp="1692651642208">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="624" y="214" key="EnvironmentVariablesDialog/0.0.1536.960@0.0.1536.960" timestamp="1692651642208" />
+    <state x="709" y="255" key="FileChooserDialogImpl" timestamp="1691448731051">
+      <screen x="0" y="25" width="1536" height="881" />
+    </state>
+    <state x="709" y="255" key="FileChooserDialogImpl/0.25.1536.881@0.25.1536.881" timestamp="1691448731051" />
+    <state width="1515" height="265" key="GridCell.Tab.0.bottom" timestamp="1692759701954">
+      <screen x="0" y="25" width="1536" height="881" />
+    </state>
+    <state width="1352" height="328" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1692652355782" />
+    <state width="1515" height="265" key="GridCell.Tab.0.bottom/0.25.1536.881@0.25.1536.881" timestamp="1692759701954" />
+    <state width="1515" height="265" key="GridCell.Tab.0.center" timestamp="1692759701954">
+      <screen x="0" y="25" width="1536" height="881" />
+    </state>
+    <state width="1352" height="328" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1692652355781" />
+    <state width="1515" height="265" key="GridCell.Tab.0.center/0.25.1536.881@0.25.1536.881" timestamp="1692759701954" />
+    <state width="1515" height="265" key="GridCell.Tab.0.left" timestamp="1692759701953">
+      <screen x="0" y="25" width="1536" height="881" />
+    </state>
+    <state width="1352" height="328" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1692652355781" />
+    <state width="1515" height="265" key="GridCell.Tab.0.left/0.25.1536.881@0.25.1536.881" timestamp="1692759701953" />
+    <state width="1515" height="265" key="GridCell.Tab.0.right" timestamp="1692759701954">
+      <screen x="0" y="25" width="1536" height="881" />
+    </state>
+    <state width="1352" height="328" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1692652355781" />
+    <state width="1515" height="265" key="GridCell.Tab.0.right/0.25.1536.881@0.25.1536.881" timestamp="1692759701954" />
+    <state width="1351" height="285" key="GridCell.Tab.1.bottom" timestamp="1692757560384">
+      <screen x="0" y="25" width="1536" height="881" />
+    </state>
+    <state width="1352" height="328" key="GridCell.Tab.1.bottom/0.0.1536.960@0.0.1536.960" timestamp="1692652363879" />
+    <state width="1351" height="285" key="GridCell.Tab.1.bottom/0.25.1536.881@0.25.1536.881" timestamp="1692757560384" />
+    <state width="1351" height="285" key="GridCell.Tab.1.center" timestamp="1692757560384">
+      <screen x="0" y="25" width="1536" height="881" />
+    </state>
+    <state width="1352" height="328" key="GridCell.Tab.1.center/0.0.1536.960@0.0.1536.960" timestamp="1692652363878" />
+    <state width="1351" height="285" key="GridCell.Tab.1.center/0.25.1536.881@0.25.1536.881" timestamp="1692757560384" />
+    <state width="1351" height="285" key="GridCell.Tab.1.left" timestamp="1692757560384">
+      <screen x="0" y="25" width="1536" height="881" />
+    </state>
+    <state width="1352" height="328" key="GridCell.Tab.1.left/0.0.1536.960@0.0.1536.960" timestamp="1692652363878" />
+    <state width="1351" height="285" key="GridCell.Tab.1.left/0.25.1536.881@0.25.1536.881" timestamp="1692757560384" />
+    <state width="1351" height="285" key="GridCell.Tab.1.right" timestamp="1692757560384">
+      <screen x="0" y="25" width="1536" height="881" />
+    </state>
+    <state width="1352" height="328" key="GridCell.Tab.1.right/0.0.1536.960@0.0.1536.960" timestamp="1692652363879" />
+    <state width="1351" height="285" key="GridCell.Tab.1.right/0.25.1536.881@0.25.1536.881" timestamp="1692757560384" />
+    <state x="154" y="100" key="MergeDialog" timestamp="1692759783124">
+      <screen x="0" y="25" width="1536" height="881" />
+    </state>
+    <state x="154" y="100" key="MergeDialog/0.25.1536.881@0.25.1536.881" timestamp="1692759783124" />
+    <state x="406" y="231" key="MultipleFileMergeDialog" timestamp="1692759783165">
+      <screen x="0" y="25" width="1536" height="881" />
+    </state>
+    <state x="406" y="231" key="MultipleFileMergeDialog/0.25.1536.881@0.25.1536.881" timestamp="1692759783165" />
+    <state x="430" y="96" key="SettingsEditor" timestamp="1691709858154">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="430" y="96" key="SettingsEditor/0.0.1536.960@0.0.1536.960" timestamp="1691709858154" />
+    <state x="430" y="113" key="SettingsEditor/0.25.1536.881@0.25.1536.881" timestamp="1691448805120" />
+    <state x="620" y="398" key="VCS.ChangelistChooser" timestamp="1691547613243">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="620" y="398" key="VCS.ChangelistChooser/0.0.1536.960@0.0.1536.960" timestamp="1691547613243" />
+    <state x="368" y="202" key="Vcs.Push.Dialog.v2" timestamp="1692759932509">
+      <screen x="0" y="25" width="1536" height="881" />
+    </state>
+    <state x="368" y="202" key="Vcs.Push.Dialog.v2/0.25.1536.881@0.25.1536.881" timestamp="1692759932509" />
+    <state x="326" y="220" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1692757433485">
+      <screen x="0" y="25" width="1536" height="881" />
+    </state>
+    <state x="326" y="213" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.960@0.0.1536.960" timestamp="1691709182492" />
+    <state x="326" y="220" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.25.1536.881@0.25.1536.881" timestamp="1692757433485" />
+  </component>
+</project>
