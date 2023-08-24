@@ -21,3 +21,4 @@ def scrape_linkedin_profile(linkedin_profile_url: str):
         for group_dict in data.get("groups"):
             group_dict.pop("profile_pic_url")
     return response
+
