@@ -3,13 +3,15 @@ import requests
 
 
 def scrape_linkedin_profile(linkedin_profile_url: str):
-    """Scrape information from LinkedIn profiles
-    Manually scrape the information from the linkedin profile"""
+    """scrape information from LinkedIn profiles,
+    Manually scrape the information from the LinkedIn profile"""
     api_endpoint = "https://nubela.co/proxycurl/api/v2/linkedin"
-    header_dic = {"Authorization": f'Bearer {os.environ.get("PROXY_CURL_API_KEY")}'}
+    header_dic = {"Authorization": f'Bearer {os.environ.get("PROXYCURL_API_KEY")}'}
 
-    params = {"url": linkedin_profile_url}
-    response = requests.get(api_endpoint, params=params, headers=header_dic)
+    response = requests.get(
+        api_endpoint, params={"url": linkedin_profile_url}, headers=header_dic
+    )
+
     data = response.json()
     data = {
         k: v
@@ -20,4 +22,5 @@ def scrape_linkedin_profile(linkedin_profile_url: str):
     if data.get("groups"):
         for group_dict in data.get("groups"):
             group_dict.pop("profile_pic_url")
-    return response
+
+    return data
